@@ -1,0 +1,18 @@
+{
+    "id": 125442819,
+    "name": "Addrian Example",
+    "author": "publisher",
+    "creators": ["creator", "secondCreator (If necessary)"],
+    "verifier": "verifier",
+    "verification": "insert YT Link",
+    "percentToQualify": "SPECIFIED LIST PERCENT",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "victorName",
+            "link": "completion link",
+            "percent": "percent achieved",
+            "hz": "(CBF (if no CBF than don't put)) number"
+        }
+    ]
+}
