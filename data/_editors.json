@@ -1,0 +1,32 @@
+[
+    {
+        "role": "owner",
+        "name": "Quantanium",
+        "link": "https://www.youtube.com/@QuantaniumYT"
+    },
+    {
+        "role": "admin",
+        "name": "TheAmazingHi",
+        "link": "https://www.youtube.com/@TheAmazingHi"
+    },
+    {
+        "role": "helper",
+        "name": "geo",
+        "link": "https://www.youtube.com/@geomateyt"
+    },
+    {
+        "role": "helper",
+        "name": "DrewJourneyy",
+        "link": "https://www.youtube.com/@DrewJourneyy"
+    },
+    {
+        "role": "trial",
+        "name": "wiluck",
+        "link": "https://www.youtube.com/channel/UCUlH9F0cb8a02PYNJH8ZkhA"
+    },
+    {
+        "role": "dev",
+        "name": "Quantanium",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
