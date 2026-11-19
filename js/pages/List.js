@@ -100,32 +100,41 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed as well as cbf/cbs)
+                        Achieved the record without using hacks (however, FPS bypass is allowed as well as cbf/cbs).
                     </p>
                     <p>
-                        Complete the level that is listed on the site - please check the level ID before you submit a record
+                        Complete the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. If not availible use click sounds mod or a handcam
+                        Have either source audio or clicks/taps in the video. If not availible use click sounds mod or a handcam.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
+                    </p>
+                    <p>
+                        You must submit unedited, raw footage to submit a record.
                     </p>
                     <h3>Level Creation Rules</h3>
                     <p>
                         Levels with spam must be under 15 CPS
                     </p>
                     <p>
-                        Levels must be under 45 seconds long
+                        Levels must be under 30 seconds long (This can be surpassed by an endscreen but don't over do it).
                     </p>
                     <p>
-                        Levels that use gameplay from pre-existing levels must change either gameplay, deco, or both
+                        Levels that use gameplay from pre-existing levels must change either gameplay, deco, or both.
+                    </p>
+                    <p>
+                        You may not submit level that have been creator before 11/18/2026 or belong to other lists, every level must be made for the ACL.
+                    </p>
+                    <p>
+                        The name of the level has to have the word "Addrian" in any form (You can shorten it in examples like "ASC" standing for Addrian Spam Challenge if you want to do so).
                     </p>
                 </div>
             </div>
